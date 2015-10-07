@@ -1,0 +1,1 @@
+﻿POS system for local retailers capable of monitoring and editing inventory quantities and running data analysis to suggest products to increase potential sales.
